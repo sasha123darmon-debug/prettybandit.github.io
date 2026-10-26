@@ -1,1 +1,1 @@
-# prettybandit.github.io
+#*Pretty Bandit*
